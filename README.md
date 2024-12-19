@@ -26,6 +26,8 @@ Copy code
 cd cricket-game
 Open the index.html file in your browser.
 No additional setup is required.
+![Uploading Screenshot (26).png…]()
+
 
 How to Play
 Open the index.html file in your browser.
