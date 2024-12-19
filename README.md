@@ -1,7 +1,7 @@
 Cricket Game
 A simple cricket game built with HTML, CSS, and JavaScript, where users can play a basic cricket match in the browser. The game includes features like hitting the ball, scoring runs, and keeping track of the player's score.
-![Uploading Screenshot (26).png…]()
 
+<!-- Replace this with your actual image path -->
 
 Table of Contents
 Features
@@ -14,7 +14,7 @@ Features
 Play a simple cricket game in your browser.
 Hit the ball and score runs.
 Track your score and try to beat your highest score.
-Simple UI for an engaging experience.
+Engaging and dynamic user interface.
 Installation
 Clone the repository:
 bash
@@ -45,4 +45,4 @@ Open a pull request to the main branch.
 License
 This project is open-source and available under the MIT License.
 
-Feel free to customize the README further based on your project specifics and any additional features you may have implemented.
+Make sure to replace the path-to-your-screen
