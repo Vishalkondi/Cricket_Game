@@ -1,5 +1,7 @@
 Cricket Game
 A simple cricket game built with HTML, CSS, and JavaScript, where users can play a basic cricket match in the browser. The game includes features like hitting the ball, scoring runs, and keeping track of the player's score.
+![Uploading Screenshot (26).png…]()
+
 
 Table of Contents
 Features
